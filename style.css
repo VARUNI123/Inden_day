@@ -2,7 +2,8 @@ body
 {
 	margin: 0;
 	padding: 0;
-	border:4px dotted green;
+	border-bottom:4px dotted green;
+	border-top:4px dotted orange;
 	border-radius:5px;
 }
 ul
